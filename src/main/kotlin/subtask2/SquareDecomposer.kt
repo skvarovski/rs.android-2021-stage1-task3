@@ -27,7 +27,7 @@ class SquareDecomposer {
                         return array.plus(i)
                 }
             } else {
-                // если отщипенец не делится
+                // если отщипенец равен
                 return arrayOf(i)
             }
         }
